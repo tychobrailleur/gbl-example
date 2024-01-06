@@ -1,2 +1,0 @@
-# gbl-example
-GridBagLayout Example
