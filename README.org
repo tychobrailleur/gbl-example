@@ -1,0 +1,6 @@
+* GridBadLayout Playground
+
+  Playground to experiment with =GridBagLayout=
+
+
+  [[./images/example.png]]
